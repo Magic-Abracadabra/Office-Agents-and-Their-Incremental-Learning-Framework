@@ -3,3 +3,5 @@ Cybersecurity is vital. To prevent hackers from exploiting vulnerabilities in th
 # Our Contributions
 1. [Fire Bunny Intelligent Development Platform](https://github.com/Magic-Abracadabra/Fire-Bunny-Intelligent-Development-Platform)
 2. [Gradual Magic](https://github.com/Magic-Abracadabra/DAHSF)
+# Our Technology Roadmap
+[Research Proposal](https://github.com/Magic-Abracadabra/All-Agents-Are-Evolving-Translators)
